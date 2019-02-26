@@ -44,15 +44,21 @@ class StreamListener(tweepy.StreamListener):
 if __name__ == "__main__":
     
     # define filters, case does not matter
-    track = ['the bachelor', 
-         '#thebachelor',
-         '#bachelornation',
-         '#bachelorabc',
-         'colton',
-         '#colton',
-         '#hometowns',
-         'hometowns'
-        ]
+    track = [
+        '#bachelor' 
+        '#thebachelor',
+        '#thebachelorette',
+        '#bachelornation',
+        '#bachelorabc',
+        'colton',
+        '#colton',
+        'hometowns',
+        '#hometowns',
+        "#teamhannahg",
+        "#teamtayshia",
+        "#teamcaelynn",
+        "#teamcassie",
+    ]
     
     #track = ['#trump', '#POTUS']
     
