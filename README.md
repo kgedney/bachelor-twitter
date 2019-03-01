@@ -26,10 +26,13 @@ to collect and analyze tweets about the bachelor tv show for fun using Tweepy pa
 
 
 #### the analysis
-- plot of contenstant mentions over time.. Cassie (blue) has the most volume, each spikes during their hometown, Caelynn also spikes during rose ceremony.  Even when Caelynn is being elimanted, people are tweeting more about Cassie than Caelynn.
+- plot of contenstant mentions over time.. Cassie (blue) has the most volume, each spikes during their hometown, Caelynn also spikes during rose ceremony.  Even when Caelynn is being elimanted, people are tweeting more about Cassie than Caelynn. _n=12,960_
 
 ![](img/volume_by_contestant.png)
 
-_n=12,960_
+
+
+
+- The top used emoji is not the rose 🌹 (which ranked #12 this episode) but the Tears of Joy face 😂, perhaps suggesting Twitter users are watching more for the comedy than the romance? 
 
 - more to come...
