@@ -26,4 +26,10 @@ to collect and analyze tweets about the bachelor tv show for fun using Tweepy pa
 
 
 #### the analysis
-- tbd
+- plot of contenstant mentions over time.. Cassie (blue) has the most volume, each spikes during their hometown, Caelynn also spikes during rose ceremony.  Even when Caelynn is being elimanted, people are tweeting more about Cassie than Caelynn.
+
+![](img/volume_by_contestant.png)
+
+_n=12,960_
+
+- more to come...
